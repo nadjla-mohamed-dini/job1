@@ -44,4 +44,4 @@ gain -= 10/100
 rend -= 1/100 
 gain = montantinitial * rend 
 print(gain)
-# JOB 10
+# JOB 10 coucou
